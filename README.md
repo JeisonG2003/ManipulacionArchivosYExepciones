@@ -15,4 +15,3 @@ Este proyecto demuestra cómo aplicar los principios de POO en Java para:
 Programación Orientada a Objetos (E)
 
 ---
-Proyecto académico – Universidad Estatal Amazónica
