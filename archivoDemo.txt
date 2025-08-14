@@ -1,0 +1,2 @@
+- Contenido del archivo creado para la práctica de manipulación de archivos .txt
+- Este texto sirve como ejemplo para verificar la lectura y escritura de datos.
